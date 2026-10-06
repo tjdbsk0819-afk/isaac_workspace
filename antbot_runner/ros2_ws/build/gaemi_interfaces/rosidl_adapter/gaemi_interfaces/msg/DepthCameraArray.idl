@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from gaemi_interfaces/msg/DepthCameraArray.msg
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/Image.idl"
+
+module gaemi_interfaces {
+  module msg {
+    struct DepthCameraArray {
+      sequence<sensor_msgs::msg::Image> color_images;
+
+      sequence<sensor_msgs::msg::Image> depth_images;
+    };
+  };
+};

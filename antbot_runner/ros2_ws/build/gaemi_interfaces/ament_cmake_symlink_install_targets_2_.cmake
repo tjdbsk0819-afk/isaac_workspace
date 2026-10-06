@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/workspace/antbot_runner/ros2_ws/build/gaemi_interfaces/rosidl_generator_py/gaemi_interfaces/gaemi_interfaces_s__rosidl_typesupport_c.so" "TARGETS" "gaemi_interfaces_s__rosidl_typesupport_c" "DESTINATION" "lib/python3.12/site-packages/gaemi_interfaces")

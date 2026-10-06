@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b64501f506e09b39624f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "gaemi_interfaces__py",
+					"jsonFile" : "directory-gaemi_interfaces__py-b835e649ffdf9d5532f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/workspace/antbot_runner/ros2_ws/build/gaemi_interfaces/gaemi_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "gaemi_interfaces__rs",
+					"jsonFile" : "directory-gaemi_interfaces__rs-4a4a7f72a30022f35fed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/workspace/antbot_runner/ros2_ws/build/gaemi_interfaces/gaemi_interfaces__rs",
+					"targetIndexes" : 
+					[
+						14
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "gaemi_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_gaemi_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_gaemi_interfaces_egg-3e777d1ac4487b6036d6.json",
+					"name" : "ament_cmake_python_build_gaemi_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_gaemi_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_gaemi_interfaces-3854a75e797a80ae3c1e.json",
+					"name" : "ament_cmake_python_symlink_gaemi_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces-8f314393764730d2dff7.json",
+					"name" : "gaemi_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__cpp-b33712e5bbc7a5c80338.json",
+					"name" : "gaemi_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gaemi_interfaces__py::@1fbb1d996eba14364db9",
+					"jsonFile" : "target-gaemi_interfaces__py-6f8fdfa582d744dafac4.json",
+					"name" : "gaemi_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_generator_c-4c5a927536ebb706f1d2.json",
+					"name" : "gaemi_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_generator_py-6e3560cb57297394a57b.json",
+					"name" : "gaemi_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_generator_type_description-622f06a09f72f20e227b.json",
+					"name" : "gaemi_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_typesupport_c-398e124aebafff98a21f.json",
+					"name" : "gaemi_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_typesupport_cpp-c5d82db928357ff9b53e.json",
+					"name" : "gaemi_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_typesupport_fastrtps_c-49204282fa68668d2faf.json",
+					"name" : "gaemi_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_typesupport_fastrtps_cpp-1cc722ad20bb470b6276.json",
+					"name" : "gaemi_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_typesupport_introspection_c-e3dfa33a67a2af011ae7.json",
+					"name" : "gaemi_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces__rosidl_typesupport_introspection_cpp-1e358257b2c8a7038ead.json",
+					"name" : "gaemi_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gaemi_interfaces__rs::@73fec1487400b391a963",
+					"jsonFile" : "target-gaemi_interfaces__rs-32bf8f1647748c9efff4.json",
+					"name" : "gaemi_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces_s__rosidl_typesupport_c-cac639c635f39dd4fbf7.json",
+					"name" : "gaemi_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces_s__rosidl_typesupport_fastrtps_c-b7a511fe04744f438089.json",
+					"name" : "gaemi_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces_s__rosidl_typesupport_introspection_c-ad7d54472e82cbc958a9.json",
+					"name" : "gaemi_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gaemi_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaemi_interfaces_uninstall-b0688743df87facc3629.json",
+					"name" : "gaemi_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-426bdd791cf0460c1be3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/workspace/antbot_runner/ros2_ws/build/gaemi_interfaces",
+		"source" : "/workspace/antbot_runner/ros2_ws/src/gaemi_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

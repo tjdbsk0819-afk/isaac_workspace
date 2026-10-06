@@ -1,0 +1,4 @@
+msg/DepthCameraArray.idl
+msg/DepthCameraArray.msg
+msg/MonoCameraArray.idl
+msg/MonoCameraArray.msg

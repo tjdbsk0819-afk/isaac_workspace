@@ -1,0 +1,7 @@
+{
+  "package_name": "gaemi_interfaces",
+  "non_idl_tuples": [
+    "/workspace/antbot_runner/ros2_ws/src/gaemi_interfaces:msg/MonoCameraArray.msg",
+    "/workspace/antbot_runner/ros2_ws/src/gaemi_interfaces:msg/DepthCameraArray.msg"
+  ]
+}

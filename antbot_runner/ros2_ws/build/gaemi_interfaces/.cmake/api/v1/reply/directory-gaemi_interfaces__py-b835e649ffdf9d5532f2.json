@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "gaemi_interfaces__py",
+		"source" : "/workspace/antbot_runner/ros2_ws/build/gaemi_interfaces/gaemi_interfaces__py"
+	}
+}

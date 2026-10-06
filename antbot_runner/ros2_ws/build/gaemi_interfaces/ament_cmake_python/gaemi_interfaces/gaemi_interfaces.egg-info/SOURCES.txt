@@ -1,0 +1,6 @@
+setup.py
+gaemi_interfaces/__init__.py
+gaemi_interfaces.egg-info/PKG-INFO
+gaemi_interfaces.egg-info/SOURCES.txt
+gaemi_interfaces.egg-info/dependency_links.txt
+gaemi_interfaces.egg-info/top_level.txt

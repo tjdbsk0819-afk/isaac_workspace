@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gaemi_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/dds_fastrtps/depth_camera_array__type_support.cpp.o"
+  "CMakeFiles/gaemi_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/dds_fastrtps/depth_camera_array__type_support.cpp.o.d"
+  "CMakeFiles/gaemi_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/dds_fastrtps/mono_camera_array__type_support.cpp.o"
+  "CMakeFiles/gaemi_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/dds_fastrtps/mono_camera_array__type_support.cpp.o.d"
+  "libgaemi_interfaces__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libgaemi_interfaces__rosidl_typesupport_fastrtps_cpp.so"
+  "rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/dds_fastrtps/depth_camera_array__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/dds_fastrtps/mono_camera_array__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/depth_camera_array__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/gaemi_interfaces/msg/detail/mono_camera_array__rosidl_typesupport_fastrtps_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/gaemi_interfaces__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
